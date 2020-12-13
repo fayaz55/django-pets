@@ -4,7 +4,15 @@ In this project I developed an pet adoption app which
 
 ## Instructions
 
-Download repository and paste the following in the command line `python manage.py runserver`
+Download repository and navigate to `django-pets-master/wisdompets`
+
+Run the following commands: 
+
+`python manage.py migrate`
+
+`python manage.py load_pet_data` 
+
+`python manage.py runserver`
 
 Go on a web browser and type in `localhost:8000` to see the web app
 
