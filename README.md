@@ -1,6 +1,6 @@
 # Learning Django
 This is the repository for the LinkedIn Learning course Learning Django. The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/learning-django-2).
-In this project I developed an pet adoption app which 
+In this project I developed an pet adoption app which lists the pets available and the information on each pet.
 
 ## Instructions
 
